@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Aug 23 18:44:38 GMT 2022","Tue Aug 23 18:44:38 GMT 2022","2","","qa.guru.allure.LabelsTest","","qa.guru.allure.LabelsTest","testStaticLabels","Создание Issue для авторизованного пользователя",""
+"passed","Tue Aug 23 18:44:47 GMT 2022","Tue Aug 23 18:44:50 GMT 2022","2933","","qa.guru.allure.StepsTest","","qa.guru.allure.StepsTest","testLambdaStep","testLambdaStep()",""
+"passed","Tue Aug 23 18:44:32 GMT 2022","Tue Aug 23 18:44:38 GMT 2022","5484","","qa.guru.allure.AttachmentsTest","","qa.guru.allure.AttachmentsTest","testAnnotatedAttachments","testAnnotatedAttachments()",""
+"passed","Tue Aug 23 18:44:26 GMT 2022","Tue Aug 23 18:44:32 GMT 2022","6120","","qa.guru.allure.AttachmentsTest","","qa.guru.allure.AttachmentsTest","testLambdaAttachments","testLambdaAttachments()",""
+"passed","Tue Aug 23 18:44:43 GMT 2022","Tue Aug 23 18:44:47 GMT 2022","3608","","qa.guru.allure.StepsTest","","qa.guru.allure.StepsTest","testAnnotatedStep","testAnnotatedStep()",""
+"passed","Tue Aug 23 18:44:38 GMT 2022","Tue Aug 23 18:44:38 GMT 2022","1","","qa.guru.allure.LabelsTest","","qa.guru.allure.LabelsTest","testDynamicLabels","Создание Issue для авторизованного пользователя",""
+"passed","Tue Aug 23 18:44:38 GMT 2022","Tue Aug 23 18:44:43 GMT 2022","5318","","qa.guru.allure.SelenideTest","","qa.guru.allure.SelenideTest","testIssueSearch","testIssueSearch()",""
